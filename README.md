@@ -1,1 +1,1 @@
-A project I and my groupmates collaborated on to create an RPG simulated game with sprites and other functions that make the game enjoyable for all ages.
+A fun, simple RPG game my group and I collaborated on. I was in charge of some of the sprites and the sound system. 
